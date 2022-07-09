@@ -1,0 +1,1 @@
+# lazyshopper-native-app
